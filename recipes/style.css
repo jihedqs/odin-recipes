@@ -14,7 +14,7 @@ a {
 button {
   display: block;
   padding: 10px;
-  margin: 0 auto;
+  margin: 10px auto;
   border-radius: 6px;
   border: 2px solid teal;
 }
@@ -23,5 +23,6 @@ img {
   margin: 0 auto;
 }
 .content {
-  margin: 8px;
+  margin: 10px auto;
+  width: 70%;
 }
