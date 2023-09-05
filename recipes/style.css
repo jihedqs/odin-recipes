@@ -5,3 +5,23 @@ h1 {
 * {
   font-family: sans-serif;
 }
+
+a {
+  text-decoration: none;
+  color: teal;
+  font-size: 16px;
+}
+button {
+  display: block;
+  padding: 10px;
+  margin: 0 auto;
+  border-radius: 6px;
+  border: 2px solid teal;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
+.content {
+  margin: 8px;
+}
