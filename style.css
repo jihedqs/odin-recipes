@@ -1,0 +1,24 @@
+* {
+  text-align: center;
+}
+body {
+  background-color: #f3cfb3;
+}
+li {
+  list-style: none;
+}
+h1 {
+  color: #7c2629;
+}
+a {
+  text-decoration: none;
+}
+.pie {
+  color: #343579;
+}
+.coleslaw {
+  color: #f8485e;
+}
+.burger {
+  color: #3f2021;
+}
