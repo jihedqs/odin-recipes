@@ -1,8 +1,12 @@
 * {
   text-align: center;
+  font-family: sans-serif;
 }
 body {
   background-color: #f3cfb3;
+}
+img {
+  width: 300px;
 }
 li {
   list-style: none;
@@ -12,6 +16,7 @@ h1 {
 }
 a {
   text-decoration: none;
+  font-size: 24px;
 }
 .pie {
   color: #343579;
@@ -21,4 +26,7 @@ a {
 }
 .burger {
   color: #3f2021;
+}
+.test {
+  color: #343579;
 }
